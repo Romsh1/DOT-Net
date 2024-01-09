@@ -1,0 +1,7 @@
+C:\Users\msi\OneDrive - Lambton College\Year 1\Sem 2\Programming C#.NET\Project_Practice\GlazerCalc\GlazerCalc\bin\Debug\GlazerCalc.exe.config
+C:\Users\msi\OneDrive - Lambton College\Year 1\Sem 2\Programming C#.NET\Project_Practice\GlazerCalc\GlazerCalc\bin\Debug\GlazerCalc.exe
+C:\Users\msi\OneDrive - Lambton College\Year 1\Sem 2\Programming C#.NET\Project_Practice\GlazerCalc\GlazerCalc\bin\Debug\GlazerCalc.pdb
+C:\Users\msi\OneDrive - Lambton College\Year 1\Sem 2\Programming C#.NET\Project_Practice\GlazerCalc\GlazerCalc\obj\Debug\GlazerCalc.csproj.AssemblyReference.cache
+C:\Users\msi\OneDrive - Lambton College\Year 1\Sem 2\Programming C#.NET\Project_Practice\GlazerCalc\GlazerCalc\obj\Debug\GlazerCalc.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive - Lambton College\Year 1\Sem 2\Programming C#.NET\Project_Practice\GlazerCalc\GlazerCalc\obj\Debug\GlazerCalc.exe
+C:\Users\msi\OneDrive - Lambton College\Year 1\Sem 2\Programming C#.NET\Project_Practice\GlazerCalc\GlazerCalc\obj\Debug\GlazerCalc.pdb
