@@ -1,0 +1,14 @@
+C:\Users\c0921918\OneDrive - Lambton College\Sem 2\Programming C#.NET\Project_Practice\calcAvg\calcAvg\bin\Debug\calcAvg.exe.config
+C:\Users\c0921918\OneDrive - Lambton College\Sem 2\Programming C#.NET\Project_Practice\calcAvg\calcAvg\bin\Debug\calcAvg.exe
+C:\Users\c0921918\OneDrive - Lambton College\Sem 2\Programming C#.NET\Project_Practice\calcAvg\calcAvg\bin\Debug\calcAvg.pdb
+C:\Users\c0921918\OneDrive - Lambton College\Sem 2\Programming C#.NET\Project_Practice\calcAvg\calcAvg\obj\Debug\calcAvg.csproj.AssemblyReference.cache
+C:\Users\c0921918\OneDrive - Lambton College\Sem 2\Programming C#.NET\Project_Practice\calcAvg\calcAvg\obj\Debug\calcAvg.csproj.CoreCompileInputs.cache
+C:\Users\c0921918\OneDrive - Lambton College\Sem 2\Programming C#.NET\Project_Practice\calcAvg\calcAvg\obj\Debug\calcAvg.exe
+C:\Users\c0921918\OneDrive - Lambton College\Sem 2\Programming C#.NET\Project_Practice\calcAvg\calcAvg\obj\Debug\calcAvg.pdb
+C:\Users\msi\OneDrive - Lambton College\Year 1\Sem 2\Programming C#.NET\Project_Practice\calcAvg\calcAvg\bin\Debug\calcAvg.exe.config
+C:\Users\msi\OneDrive - Lambton College\Year 1\Sem 2\Programming C#.NET\Project_Practice\calcAvg\calcAvg\bin\Debug\calcAvg.exe
+C:\Users\msi\OneDrive - Lambton College\Year 1\Sem 2\Programming C#.NET\Project_Practice\calcAvg\calcAvg\bin\Debug\calcAvg.pdb
+C:\Users\msi\OneDrive - Lambton College\Year 1\Sem 2\Programming C#.NET\Project_Practice\calcAvg\calcAvg\obj\Debug\calcAvg.csproj.AssemblyReference.cache
+C:\Users\msi\OneDrive - Lambton College\Year 1\Sem 2\Programming C#.NET\Project_Practice\calcAvg\calcAvg\obj\Debug\calcAvg.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive - Lambton College\Year 1\Sem 2\Programming C#.NET\Project_Practice\calcAvg\calcAvg\obj\Debug\calcAvg.exe
+C:\Users\msi\OneDrive - Lambton College\Year 1\Sem 2\Programming C#.NET\Project_Practice\calcAvg\calcAvg\obj\Debug\calcAvg.pdb
