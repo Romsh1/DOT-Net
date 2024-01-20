@@ -1,0 +1,7 @@
+C:\Users\msi\OneDrive - Lambton College\Year 1\Sem 2\Programming C#.NET\Project_Practice\multiplicationTable\multiplicationTable\bin\Debug\multiplicationTable.exe.config
+C:\Users\msi\OneDrive - Lambton College\Year 1\Sem 2\Programming C#.NET\Project_Practice\multiplicationTable\multiplicationTable\bin\Debug\multiplicationTable.exe
+C:\Users\msi\OneDrive - Lambton College\Year 1\Sem 2\Programming C#.NET\Project_Practice\multiplicationTable\multiplicationTable\bin\Debug\multiplicationTable.pdb
+C:\Users\msi\OneDrive - Lambton College\Year 1\Sem 2\Programming C#.NET\Project_Practice\multiplicationTable\multiplicationTable\obj\Debug\multiplicationTable.csproj.AssemblyReference.cache
+C:\Users\msi\OneDrive - Lambton College\Year 1\Sem 2\Programming C#.NET\Project_Practice\multiplicationTable\multiplicationTable\obj\Debug\multiplicationTable.csproj.CoreCompileInputs.cache
+C:\Users\msi\OneDrive - Lambton College\Year 1\Sem 2\Programming C#.NET\Project_Practice\multiplicationTable\multiplicationTable\obj\Debug\multiplicationTable.exe
+C:\Users\msi\OneDrive - Lambton College\Year 1\Sem 2\Programming C#.NET\Project_Practice\multiplicationTable\multiplicationTable\obj\Debug\multiplicationTable.pdb
